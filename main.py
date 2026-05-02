@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 # Прямое указание токена, чтобы Render не тупил
-API_TOKEN = '8202786671:AAHEBj7ulltTuiiAC7Y27PFBiy6RKgPBLg'
+API_TOKEN = '8202786671:AAEM6GVrNw_RTUGKO2_Q8rQ1ZLAoIjpxZqw'
 
 bot = telebot.TeleBot(API_TOKEN)
 
